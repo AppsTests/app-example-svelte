@@ -4,7 +4,7 @@
 
 Пример приложения [Svelte](https://svelte.dev/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: [Демо](https://timeweb-cloud-app-example-svelte-b1bc.twc1.net)
+:tada: [Демо](https://twc-app-example-svelte.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
